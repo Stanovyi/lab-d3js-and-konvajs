@@ -1,0 +1,9 @@
+svg {
+	margin: 150px auto;
+}
+
+h1 {
+	text-align: center;
+	text-shadow: 1px 1px 2px black, 0 0 1em;
+	font-family: sans-serif;
+}
